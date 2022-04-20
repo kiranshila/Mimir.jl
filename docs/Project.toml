@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Mimir = "0a87d03a-36c2-4499-a189-b4353b0cf962"
