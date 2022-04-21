@@ -9,6 +9,7 @@ Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
 Dedisp = "7bc0bc3a-6b35-4b25-97f3-85089611dfa9"
 
 [compat]
+CUDA = "3"
 julia = "1.6"
 
 [extras]
